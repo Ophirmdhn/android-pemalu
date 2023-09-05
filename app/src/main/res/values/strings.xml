@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Anime List</string>
+    <string name="ophi">Dwi Ophi Ramadhan</string>
+    <string name="name">Nama</string>
+    <string name="genre">Genre :</string>
+    <string name="release">Release :</string>
+    <string name="synopsis">Synopsis</string>
+
+    <string name="menu_profile">Profile</string>
+    <string name="email">ophiramadhan18@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>One Piece</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Mushoku Tensei</item>
+        <item>Blue Lock</item>
+        <item>Tensei Shitara Slime Datta Ken</item>
+        <item>Kimetsu no Yaiba</item>
+        <item>Nanatsu no Taizai</item>
+        <item>Black Clover</item>
+        <item>Naruto: Shippuuden</item>
+        <item>Zom 100 Bucket List of the Dead</item>
+        <item>Haikyu!!</item>
+    </string-array>
+
+    <string-array name="data_synopsis">
+        <item>Menceritakan perjalanan Luffy, seorang anak laki-laki yang bertemu bajak laut hebat bernama Shanks, dimana Luffy terinspirasi oleh kehebatan Shanks dan bermimpi suatu hari nanti ingin menjadi bajak laut kemudian Shanks menjanjikan Luffy untuk reuni di masa depan dan memberikan topi jeraminya.
+            \n\nSepuluh tahun kemudian, Luffy yang sudah tumbuh dewasa akhirnya mendayung sendirian ke lautan dengan mimpi yang tak tergoyahkan "Aku akan menjadi Raja Bajak Laut" Dalam perjalanannya, Luffy mengumpulkan teman-teman yang menjadi kru bajak laut yang dapat diandalkan dan membentuk Bajak Laut Topi Jerami.
+            \n\nLuffy dan kawan-kawan menghadapi cuaca dan makhluk yang luar biasa. Belum lagi musuh yang sangat kuat. Namun, para kru dapat mengatasi kesulitan dengan keyakinan dan ikatan yang kuat.
+            \n\nDi Negara gurun Alabasta, Luffy bersama dengan kru bajak lautnya harus mengalahkan salah satu dari Tujuh Panglima Perang Laut, Buaya, dan berpetualangan di Pulau Langit yang legendaris.
+            \n\nLuffy dan krunya melawan pemerintah dunia, mereka ingin menghancurkan basis peradilan yang tidak adil. Tim Bajak Laut Topi Jerami membuat keonaran demi kebaikan dunia dan menyebabkan insiden lain satu demi satu bermunculan.
+        </item>
+        <item>Mengisahkan perjalanan Yuji Itadori, adalah seorang siswa SMA yang berbakat secara atletik yang tertarik dengan hal-hal berbau gaib. Suatu hari, dia dan teman-temannya menemukan artefak kuno berbentuk jari iblis di klub penelitian gaib sekolah mereka. Seorang jujutsu sorcerer, Megumi Fushiguro, datang untuk menyelidiki artefak tersebut dan memberi tahu Yuji tentang bahaya besar yang dihadapinya. Ketika malam tiba, sebuah kutukan kuat muncul dan menyerang sekolah.
+            \n\nUntuk melindungi teman-temannya, Yuji tanpa ragu menelan jari iblis itu. Namun, alih-alih merasuk ke dalamnya, Yuji mampu mengendalikan kekuatan iblis tersebut. Dengan jari iblis di dalam tubuhnya, Yuji ditawari kesempatan oleh Sekolah Jujutsu Tokyo untuk bergabung dengan mereka sebagai jujutsu sorcerer. Dia bersama Megumi dan Nobara Kugisaki bergabung dalam misi-misi berbahaya untuk menemukan dan menyingkirkan jari-jari iblis yang jatuh ke dunia manusia.
+            \n\nSementara itu, mereka juga berhadapan dengan organisasi jahat bernama Zenin, yang berusaha memanfaatkan kutukan untuk kepentingan mereka sendiri. Yuji harus berurusan dengan kutukan yang berbahaya, iblis yang haus darah, dan ancaman organisasi jahat sambil belajar mengendalikan kekuatan iblis dalam dirinya. Dia bertekad melindungi orang-orang yang dicintainya dan menghentikan kekacauan yang mungkin ditimbulkan oleh jari-jari iblis tersebut. Dalam perjalanan ini, Yuji bertemu dengan berbagai karakter jujutsu sorcerer lainnya, mengasah kemampuannya, dan menghadapi tantangan yang semakin berbahaya dalam dunia jujutsu yang penuh kegelapan.
+        </item>
+        <item>Seorang NEET Jepang berusia 34 tahun yang tidak diketahui namanya, ia diusir dari rumah setelah kematian orang tuanya. Setelah beberapa kali intropeksi diri, ia menyimpulkan bahwa kehidupan yang ia jalani pada akhirnya tidak ada gunanya. Ia mencegat truk yang sedang melaju menuju sekelompok remaja mencoba melakukan sesuatu yang sangat berarti sekali dalam hidupnya, dan berhasil menyelamatkan salah satu dari mereka dari jalan yang berbahaya sebelum akhirnya ia meninggal.
+            \n\nTerbangun dalam tubuh bayi, ia segera menyadari bahwa dirinya telah bereinkarnasi ke dunia pedang dan sihir, kemudian ia memutuskan untuk menjadi sukses dalam kehidupan barunya, membuang identitas masa lalunya untuk kehidupan barunya sebagai Rudeus Greyrat. karena faktor genetik dan pelatihan lebih awal, Rudeus menjadi sangat ahli dalam sihir. Selama masa kecilnya ia menjadi murid Roxy Migurdia, berteman dengan Sylphiette, dan menjadi guru Eris Boreas Greyrat. tak lama setelah itu, terjadi bencana yang menyebabkan semua orang diteleportasi ke segala penjuru dunia, dan Rudeus memutuskan untuk mengantar Eris pulang. Selama perjalannya, Rudeus menerima beberapa nasihat dari Dewa Manusia (Hitogami) dan berteman dengan Ruijerd Supardia. Setelah berhasil mengantar Eris pulang, terjadi kesalahpahaman dengan Eris yang membuat Rudeus patah hati.
+        </item>
+        <item>Asosiasi Sepak Bola Jepang (JFA) membuka audisi untuk pencarian bakat pemain sepak bola untuk anak SMA. Mereka nantinya akan dipersiapkan untuk Piala Dunia 2022. Hal ini dilakukan untuk menebus kekalahan Jepang dari Piala Dunia FIFA 2018.
+            \n\nAudisi dan program latihan tersebut merupakan iniasi Jinpachi, seorang pelatih yang gagasan jenis pelatihan baru untuk pemain bola. Pelatihan itu nantinya dilakukan dengan mengisolasi 300 pemain bola muda berbakat dalam sebuah asrama yang disebut Blue Lock. Di asrama itulah, mereka akan ditempa dengan keras untuk menjadi stiker egois sekaligus terhebat di dunia.
+            \n\nDalam kariernya sebagai pemain sepak bola Youichi Isagi merupakan seorang pemain penyerang. Karena kemampuannya, Isagi mendapatkan undangan untuk audisi. Isagi yang baru saja gagal dalam kompetisi nasional ternyata termasuk salah satu dari 300 yang dipilih oleh Jinpachi Ego. Isagi kemudian memulai perjalanan panjangnya jadi striker terhebat dengan mengikuti program Blue Lock tersebut.
+        </item>
+        <item>Menceritakan Satoru Mikami seorang pekerja kantoran yang dibunuh oleh kriminal kemudian bereinkarnasi di dunia lain menjadi slime. Si slime tersebut dilahirkan di sebuah gua yang mana dipenuhi oleh monster dan tumbuhan ajaib. Untuk menghabiskan waktu dia menyerap semua rumput dan batu tambang yang ada di dalam gua.
+            \n\nPertemuan pertama si slime dengan monster adalah dengan True Dragon Lord bernama Veldora seekor Naga Badai yang sangat kuat. Ternyata Sang Naga adalah penjaga Hutan Jura yang disegel. Sambil saling curhat si slime diberi nama “Rimuru” oleh sang Naga dan Rimuru menambahkan “Tempest” di belakang nama Veldora. Sehingga si slime bernama Rimuru Tempest dan Naga Badai bernama Veldora Tempest.
+            \n\nRimuru sebelumnya telah dibekali skill unik bernama Pertapa Agung. Pertapa Agung merupakan kemampuan semacam kecerdasan buatan yang akan menganalisis dan mengolah skill atau memberikan saran seputar fenomena yang terjadi di dunia lain. Veldora tersegel dan belum mampu keluar sehingga atas saran Pertapa Agung, Rimuru menelan Veldora sambil berusaha mencari cara membuka segel sang Naga Badai.
+            \n\nRimuru berusaha mencari jalan keluar dari gua. Dalam perjalanan tersebut dia menemui beberapa monster yang kemudian dibunuh dan ditelannya. Ketika menelan para monster, Rimuru secara otomatis diwarisi kekuatan dari apa yang ditelannya.
+        </item>
+        <item>Seorang remaja lelaki bernama Tanjiro Kamado semula hidup tenang di sebuah desa di pegunungan bersama keluarganya. Ia adalah anak tertua yang menjadi tumpuan keluarga sepeninggal ayahnya. Hingga suatu hari, semuanya berubah ketika iblis menyerang dan membunuh semua keluarga Kamado saat Tanjiro tidak ada di rumah. Adiknya perempuannya, Nezuko, menjadi satu-satunya anggota keluarga yang selamat namun terinfeksi darah sehingga berubah menjadi iblis. Tanjiro lantas berambisi menemukan obat untuk mengubah Nezuko kembali menjadi manusia sekaligus balas dendam kepada iblis pembunuh keluarganya.
+            \n\nSetelah pertemuannya dengan seorang pembunuh iblis bernama Giyu Tomioka, Tanjiro sepakat bergabung dengan korps demon slayer untuk menjadi pembunuh iblis. Usai menghabiskan masa dua tahun pelatihan yang berat, Tanjiro resmi menjadi anggota demon slayer dan mulai memburu iblis. Namun, petualangan Tanjiro ternyata tak semudah yang dibayangkan, bahkan beberapa misi justru membahayakan nyawa Tanjiro dan adiknya, Nezuko.
+        </item>
+        <item>Menceritakan sebuah kerajaan bernama Liones. dalam kerajaan tersebut terdapat 7 kesatria yang sangat hebat dan disegani karena kehebatan mereka. 7 kesatria tersebut di buat oleh 7 pendosa besar dengan lambang binatang buas sebagai lambang pengenal mereka. Suatu hari nanatsu no taizai difitnah dan dianggap sebagai penghianat kerajaan karena dituduh akan menghancurkan kerajaan, akhirnya mereka bertujuh berpisah dan menjalani kehidupan masing-masing.
+            \n\nElisabeth adalah putri ketiga dari raja Liones, putri Elisabeth mendengar rencana kudeta oleh para kesatria suci kerajaan lalu diperintahkan oleh raja Liones untuk pergi dan mencari nanatsu no taizai karena hanya mereka lah yang dapat menghentikan ambisi dari para kesatria suci. Setelah 10 tahun mereka menghilang, Elisabeth berkelana mencari mereka dengan menggunakan zirah tua berkarat agar tidak diketahui pihak kerajaan.
+            \n\nKarena telah lama berjalan akhirnya Elisabeth pingsan dalam sebuah bar milik seorang anak. Karena Elisabeth memakai zirah tua berkarat untuk berkelana, dia dianggap sebagai salah satu anggota nanatsu no taizai dan informasi tentangnya tersebar ke prajurit kerajaan. Singkat cerita, Elisabeth yang hampir tertangkap oleh salah seorang murid kesatria suci Twigo akhirnya ditolong oleh pemilik bar yang menampungnya ketika dia pingsan, ternyata identitas asli dari pemilik bar tersebut adalah Meliodas, kapten dari kelompok kesatria legendaris nanatsu no taizai.
+        </item>
+        <item>Dahulu ketika mereka masih kecil, Yuno dan Asta ditinggal begitu saja di depan sebuah gereja sampai akhirnya mereka dirawat dan dibesarkan bersama-sama. Keduanya tinggal bersamaan dan hidup berdampingan dengan dunia sihir, sehingga mereka pun memiliki ketertarikan satu sama lain terkait dunia tersebut. Satu hari Asta dan Yuno mengetahui tentang kabar Raja Penyihir. Konon nama tersebut adalah gelar keramat yang akan disematkan pada sosok penyihir terkuat.
+            \n\nMendengar cerita tersebut, mereka berdua terus berupaya dengan sungguh-sungguh untuk bisa menguasai ilmu sihir. Yuno memiliki kekuatan sihir dan mampu mengendalikannya dengan kontrol luas biasa setiap ia beraksi. Sementara Asta sama sekali tidak mempunyai kekuatan sihir. Padahal sehari-harinya ia terus berusaha keras dengan latihan fisik. Menginjak usia 15 tahun, kemampuan sihir Yuno seakan meningkat usai dianugerahi grimoire yaitu semanggi berdaun empat. Di momen tersebut Asta sama sekali tidak menerima apa pun seperti Yuno dan tetap tidak memilki kekuatan sihir.
+            \n\nTak berselang lama, Yuno harus berhadapan melawan serangan sosok Lebuty. Usut punya usut, Lebuty ini ingin merebut grimoire milik Yuno. Merasa kasihan dengan keadaan Yuno, Asta pun memberanikan diri melawan Lebuty meski ia tahu bahwa dirinya tidak mempunyai kekuatan. Terbukti bahwa Asta pun kalah dari Lebuty. Tapi hal itu seakan belum berakhir karena Asta percaya mampu mengalahkannya. Di tengah-tengah perlawanan sebelum resmi kalah, Asta mendengar teriakan Yuno yang mengisyaratkan sebuah kekuatan.
+            \n\nSetelah meluapkan emosinya itu Asta mendapat grimoire semanggi berdaun lima atau semanggi hitam langka dan memberinya kekuatan super untuk mengalahkan Lebuty. Usai berhasil melumpuhkan Lebuty, Asta dan Yuno seperti mulai petualangan baru dan pergi menjelajahi sebuah dunia. Petualangan tersebut tidak lain untuk menguasai ilmu sihir. Sebab tujuan keduanya adalah bersaing sehat demi menduduki takhta Raja Penyihir yang terkuat.
+        </item>
+        <item>Setelah Naruto kembali ke desa Konoha, ia disambut oleh Sakura, Hinata, Shikamaru, Chouji dan teman-teman lainnya semasa menjadi Genin, dan ternyata mereka telah menjadi Chuunin, kecuali Shikamaru yang sudah melebihi yang lainnya dengan menjadi Jounin. Kemudian Kakashi kembali menguji Naruto dan Sakura untuk mengetahui bagaimana perkembangan mereka saat ini. Ujiannya hampir sama dengan ujian ketika mereka baru saja menjadi Genin.
+            \n\nHanya saja kali ini Kakashi serius dan bahkan menggunakan Sharingan. Awalnya, Naruto dan Sakura kewalahan menghadapi Kakashi yang sangat kuat dan cepat, dan ditambah lagi Kakashi memakai Sharingan. Namun keadaan itu berakhir ketika Naruto berhasil melakukan sesuatu pada Kakashi dan akhirnya membuat mereka berdua lulus pada ujian itu sekali lagi.
+            \n\nSetelah itu, Naruto dan kawan-kawannya diberi misi kelas S untuk menolong Gaara, sang Kazekage sekaligus sahabat Naruto, dari tangan organisasi misterius bernama Akatsuki. Tim 7 lalu mengejar Akatsuki, ditemani nenek Chiyo, seorang wanita tua yang misterius. Deidara lalu membawa Gaara yang tak berdaya untuk diambil Bijuu di dalam tubuhnya. Tim 7 dibantu Tim 9 pimpinan Guru Guy mendobrak masuk persembunyian Akatsuki dan melawan mereka. Sakura dan nenek Chiyo melawan Sasori yang merupakan cucu dari nenek Chiyo. Kakashi dan Naruto mengejar Deidara.
+        </item>
+        <item>Menceritakan, Akira Tendou menjalani tiga tahun menjadi pekerja. Ia merasa perusahaan mengeruk dia untuk menjadi budak korporat. Mulanya ia mendambakan pekerjaan di perusahaan itu. Tapi, bukannya menyenangkan malah menyengsarakan.
+            \n\nAkibat merasa terus dieksploitasi dan menjalani hidup yang sebenarnya tidak layak untuk dijalani, ia depresi dan berharap berhenti kerja.
+            \n\nAkhirnya pada suatu pagi, ketika ia akan berangkat kerja, kawanan Zombie tiba-tiba muncul mengejar. Sontak, ia berlari karena takut zombi dan terlambat kerja.
+            \n\nTapi, saat berlari dia merasa perubahan ketakutan menjadi kegembiraan. Dia merasa seperti terlepas dari eksploitasi perusahaan yang selama ini membebani hidupnya. Dari sinilah cerita bermula.
+            \n\nAkira Tendou menemukan nilai kehidupan di tengah-tengah kehancuran dunia akibat zombi.
+        </item>
+        <item>Shouyo yang memiliki tinggi tubuh yang relatif kecil bagi orang seusianya. Namun ia memiliki senjata untuk menutupi kekurangannya, yaitu kekuatan lompatannya yang luar biasa. Perjuangannya menjadi atlet voli berasal saat ia memasuki SMP Yukigaoka. Pada turnamen voli yang ia ikuti untuk pertama kalinya, pertandingan perdana mereka langsung berhadapan dengan Tim Voli SMP Kitagawa Daiichi. Rupanya mereka digadang-gadang sebagai pemenang pada turnamen tersebut.
+            \n\nTim Voli SMP Kitagawa Daiichi terdiri dari para pemain yang memiliki tinggi badan di atas rata-rata. Bahkan kehadiran mereka cukup mengintimidasi para tim lain yang mengikuti turnamen tersebut. Sedangkan tim voli SMP Yukigaoka, tempat Shouyo tergabung, memiliki kondisi yang berkebalikan dengan SMP Kitagawa Daiichi. Rekan-rekan Shouyo terlihat sangat kecil apabila dibandingkan dengan Tim SMP Kitagawa.
+            \n\nNamun, adanya perbedaan tersebut tidak mematahkan semangat Shouyo untuk tetap melanjutkan pertandingan, meski rekan setimnya terlihat sudah cukup pasrah dengan hasil pertandingan.
+            \n\nDi dalam Tim Kitagawa Daiichi, terdapat seorang Setter Jenius bernama Tobio Kageyama yang dijuluki sebagai ‘Raja Lapangan’. Julukan tersebut karena saat dalam pertandingan, Kageyama selalu bertingkah layaknya diktator kepada rekan setimnya. Bahkan ia tidak segan ‘membuang’ rekan setimnya apabila mereka tidak bisa mengikuti apa yang Kageyama perintahkan.
+        </item>
+    </string-array>
+
+    <string-array name="data_release">
+        <item>1999</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2021</item>
+        <item>2019</item>
+        <item>2014</item>
+        <item>2017</item>
+        <item>2007</item>
+        <item>2023</item>
+        <item>2014</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Action, Adventure, Comedy, Fantasy, Drama, Shounen, Super Power</item>
+        <item>Action, Demons, Horror, School, Shounen, Supernatural</item>
+        <item>Drama, Ecchi, Fantasi, Isekai, Reincarnation</item>
+        <item>Shounen, Sports, Team Sports</item>
+        <item>Comedy, Fantasy, Shounen, Slice of Life</item>
+        <item>Action, Shounen, Supernatural, Demons, Fantasy</item>
+        <item>Action, Adventure, Fantasy, Shounen, Supernatural</item>
+        <item>Action, Comedy, Fantasy, Magic, Shounen</item>
+        <item>Action, Adventure, Comedy, Martial Arts, Shounen, Super Power</item>
+        <item>Action, Adult Cast, Comedy, Horror, Seinen, Survival</item>
+        <item>Comedy, Drama, School, Shounen, Sports</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/one_piece</item>
+        <item>@drawable/jujutsu_kaisen</item>
+        <item>@drawable/mushoku_tensei</item>
+        <item>@drawable/blue_lock</item>
+        <item>@drawable/tensura</item>
+        <item>@drawable/kimetsu_no_yaiba</item>
+        <item>@drawable/nanatsu_no_taizai</item>
+        <item>@drawable/black_clover</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/zom_100</item>
+        <item>@drawable/haikyu</item>
+    </string-array>
+</resources>
