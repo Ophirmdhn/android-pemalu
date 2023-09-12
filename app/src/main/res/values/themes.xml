@@ -3,8 +3,10 @@
     <style name="Base.Theme.MyApp" parent="Theme.Material3.DayNight">
         <!-- Customize your light theme here. -->
         <item name="colorPrimary">@color/blue</item>
-        <item name="colorPrimaryContainer">#1350AA</item>
+        <item name="colorPrimaryVariant">#1350AA</item>
         <item name="colorOnPrimary">@color/white</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
     </style>
 
     <style name="Theme.MyApp" parent="Base.Theme.MyApp" />
