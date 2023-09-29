@@ -1,6 +1,5 @@
 package com.ophi.myapp
 
-import android.R.*
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
